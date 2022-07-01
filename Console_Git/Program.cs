@@ -6,7 +6,7 @@ namespace Console_Git
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World AriZ!");
+            Console.WriteLine("Hello World AriZa!");
         }
     }
 }
