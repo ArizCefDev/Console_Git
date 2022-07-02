@@ -7,6 +7,7 @@ namespace Console_Git
         static void Main(string[] args)
         {
             Console.WriteLine("nsx");
+            Console.WriteLine("ariz");
         }
     }
 }
