@@ -9,6 +9,7 @@ namespace Console_Git
             Console.WriteLine("R.I.P Pop Smoke");
             Console.WriteLine("Wooo");
             Console.WriteLine("W0bjwdooo");
+            Console.WriteLine("salam");
         }
     }
 }
