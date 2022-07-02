@@ -6,7 +6,7 @@ namespace Console_Git
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("jba");
+            Console.WriteLine("nsx");
         }
     }
 }
