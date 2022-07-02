@@ -8,6 +8,7 @@ namespace Console_Git
         {
             Console.WriteLine("Hello Worlds!");
             Console.WriteLine("Hello Nezrin!");
+            Console.WriteLine("na");
         }
     }
 }
