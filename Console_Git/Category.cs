@@ -12,5 +12,14 @@ namespace Console_Git
         public double Weight { get; set; }
         public int Stock { get; set; }
         public double Price { get; set; }
+
+        public void Show()
+        {
+            Console.WriteLine(Name);
+            Console.WriteLine(Weight);
+            Console.WriteLine(Stock);
+            Console.WriteLine(Price);
+        }
     }
+    
 }
