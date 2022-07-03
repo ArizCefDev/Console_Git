@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Console_Git
 {
-    public class Category
+    public abstract class Category
     {
         public string Name { get; set; }
         public double Weight { get; set; }
