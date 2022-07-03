@@ -15,10 +15,12 @@ namespace Console_Git
 
         public void Show()
         {
+            Console.WriteLine();
             Console.WriteLine(Name);
             Console.WriteLine(Weight);
             Console.WriteLine(Stock);
             Console.WriteLine(Price);
+            Console.WriteLine();
         }
     }
     
