@@ -6,8 +6,12 @@ namespace Console_Git
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("nsx");
-            Console.WriteLine("ariz");
+            Meat mt = new Meat();
+            mt.Name = "Beylaqan";
+            mt.Weight = 1;
+            mt.Stock = 500;
+            mt.Price = 11.5;
+            mt.Show();
         }
     }
 }
