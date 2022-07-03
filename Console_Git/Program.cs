@@ -24,7 +24,7 @@ namespace Console_Git
             sn.Name = "Peanuts";
             sn.Weight = 0.500;
             sn.Stock = 2;
-            sn.Price = 5;
+            sn.Price = 15;
             sn.Show();  
 
         }
